@@ -1,2 +1,0 @@
-# Madidimalo
-My first repository
